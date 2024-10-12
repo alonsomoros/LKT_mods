@@ -1,0 +1,16 @@
+Apotheosis (Mod de gemas y tiers)
+Appleskin (Interfaz de comida)
+Biomes O'Plenty (+Biomas)
+Dungeon Crawl (Dungeons con buen loot)
+GraveStone (Lápidas cuando mueres)
+JEI (Interfaz y ayuda de crafteos)
+Patchouli (Libro guia)
+Sophisticated Backpacks (Mochilas = +Inventario)
+WayStones (Waystones/Portales)
+-------------------------
+CarryOn (Permite mover cosas más facilmente (Ej. Cofres, Mobs)
+Mowzies Mobs (Añade un par de enemigos dificiles)
+OpenBlock Elevator (Ascensores)
+JADE (Interfaz de ayuda e info)
+Paragliders (Aladelta y estamina, para viajes)
+-------------------------
