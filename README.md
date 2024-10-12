@@ -7,6 +7,7 @@ JEI (Interfaz y ayuda de crafteos) <br />
 Patchouli (Libro guia) <br />
 Sophisticated Backpacks (Mochilas = +Inventario) <br />
 WayStones (Waystones/Portales) <br />
+YDM's MobsHealth (Vida enemigos) <br /> 
 --------------------------------------------------------------------------- <br />
 CarryOn (Permite mover cosas más facilmente (Ej. Cofres, Mobs) <br />
 Mowzies Mobs (Añade un par de enemigos dificiles) <br />
