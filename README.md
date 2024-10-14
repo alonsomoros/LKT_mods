@@ -1,27 +1,30 @@
-------------------<[Mods Actuales en el Server]>--------------------<br />
+> [!IMPORTANT]
+> DESCARGAROS LA CARPETA DE LOS MODS PORQUE HAY ALGUNOS QUE TIENEN DEPENDENCIAS
+> AQUÍ SOLO SE EXPLICA UN POCO CUÁLES SON
+>------------------<[Mods Actuales en el Server]>--------------------<br />
+>- Apotheosis (Mod de gemas y tiers) <br />
+>- ApothicAttributes
+>- Biomes O'Plenty (+Biomas) <br />
+>- ***->(NUEVO)*** CarryOn (Permite mover cosas más facilmente (Ej. Cofres, Mobs) <br />
+>- Dungeon Crawl (Dungeons con buen loot) <br />
+>- ***->(NUEVO)*** FTB Quest (Forge) (Implementa un menu de misiones) <br />
+>- ***->(NUEVO)*** GeckoLib (Criaturas) <br />
+>- GraveStone (Lápidas cuando mueres) <br />
+>- ***->(NUEVO)*** ItemFilters (Filtrado de items) <br/>
+>- ***->(NUEVO)*** Mowzies Mobs (Añade un par de enemigos dificiles) <br />
+>- ***->(NUEVO)*** OpenBlock Elevator (Ascensores)** (Ascensores) <br />
+>- Patchouli (Libro guia) <br />
+>- Sophisticated Backpacks (Mochilas = +Inventario) <br />
+>- WayStones (Waystones/Portales) <br />
 
-Apotheosis (Mod de gemas y tiers) <br />
+> [!NOTE]
+>-------------------<[Mods debatidos para meter]>-------------------- <br />
+>- Paragliders (Aladelta y estamina, para viajes) <br />
 
-Biomes O'Plenty (+Biomas) <br />
-->(Nuevo) **CarryOn** (Permite mover cosas más facilmente (Ej. Cofres, Mobs) <br />
-Dungeon Crawl (Dungeons con buen loot) <br />
-->(Nuevo) **FTB Quest (Forge)** (Implementa un menu de misiones) <br />
-->(Nuevo) **GeckoLib** (Criaturas) <br />
-GraveStone (Lápidas cuando mueres) <br />
-->(Nuevo) **Mowzies Mobs** (Añade un par de enemigos dificiles) <br />
-->(Nuevo) **OpenBlock Elevator (Ascensores)** (Ascensores) <br />
-Patchouli (Libro guia) <br />
-Sophisticated Backpacks (Mochilas = +Inventario) <br />
-WayStones (Waystones/Portales) <br />
-
--------------------<[Mods debatidos para meter]>-------------------- <br />
-
-Paragliders (Aladelta y estamina, para viajes) <br />
-
--------------<[Mods personales y son para tu cliente]>-------------- <br />
-
-Appleskin (Interfaz de comida) <br />
-JADE (Interfaz de ayuda e info) <br />
-JEI (Interfaz y ayuda de crafteos) <br />
-Journey Map (Interfaz de Mapa) <br />
-YDM's MobsHealth (Vida enemigos) <br />
+> [!TIP]
+>-------------<[Mods personales y son para tu cliente]>-------------- <br />
+>- Appleskin (Interfaz de comida) <br />
+>- JADE (Interfaz de ayuda e info) <br />
+>- JEI (Interfaz y ayuda de crafteos) <br />
+>- Journey Map (Interfaz de Mapa) <br />
+>- YDM's MobsHealth (Vida enemigos) <br />
