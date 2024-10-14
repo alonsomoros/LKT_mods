@@ -1,4 +1,4 @@
--------------------------------------------<[Mods Actuales en el Server]>--------------------------------------------------- <br />
+------------------<[Mods Actuales en el Server]>--------------------<br />
 
 Apotheosis (Mod de gemas y tiers) <br />
 
@@ -13,11 +13,11 @@ Patchouli (Libro guia) <br />
 Sophisticated Backpacks (Mochilas = +Inventario) <br />
 WayStones (Waystones/Portales) <br />
 
--------------------------------------------<[Mods debatidos para meter]>---------------------------------------------------- <br />
+-------------------<[Mods debatidos para meter]>-------------------- <br />
 
 Paragliders (Aladelta y estamina, para viajes) <br />
 
-----------------------------------<[Mods personales y son para tu cliente]>----------------------------------------- <br />
+-------------<[Mods personales y son para tu cliente]>-------------- <br />
 
 Appleskin (Interfaz de comida) <br />
 JADE (Interfaz de ayuda e info) <br />
