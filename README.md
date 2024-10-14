@@ -10,6 +10,7 @@
 >- ***->(NUEVO)*** FTB Quest (Forge) (Implementa un menu de misiones) <br />
 >- ***->(NUEVO)*** GeckoLib (Criaturas) <br />
 >- GraveStone (Lápidas cuando mueres) <br />
+>- ***->(NUEVO)*** InventoryProfileNext (Ordenar cofres) <br />
 >- ***->(NUEVO)*** ItemFilters (Filtrado de items) <br/>
 >- ***->(NUEVO)*** Mowzies Mobs (Añade un par de enemigos dificiles) <br />
 >- ***->(NUEVO)*** OpenBlock Elevator (Ascensores)** (Ascensores) <br />
