@@ -6,6 +6,7 @@ Biomes O'Plenty (+Biomas) <br />
 ->(Nuevo) **CarryOn** (Permite mover cosas más facilmente (Ej. Cofres, Mobs) <br />
 Dungeon Crawl (Dungeons con buen loot) <br />
 ->(Nuevo) **FTB Quest (Forge)** (Implementa un menu de misiones) <br />
+->(Nuevo) **GeckoLib** (Criaturas) <br />
 GraveStone (Lápidas cuando mueres) <br />
 ->(Nuevo) **Mowzies Mobs** (Añade un par de enemigos dificiles) <br />
 ->(Nuevo) **OpenBlock Elevator (Ascensores)** (Ascensores) <br />
