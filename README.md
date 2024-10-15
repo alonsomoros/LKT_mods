@@ -1,6 +1,7 @@
 > [!IMPORTANT]
 > DESCARGAROS LA CARPETA DE LOS MODS PORQUE HAY ALGUNOS QUE TIENEN DEPENDENCIAS
 > AQUÍ SOLO SE EXPLICA UN POCO CUÁLES SON
+> 
 >------------------<[Mods Actuales en el Server]>--------------------<br />
 >- Apotheosis (Mod de gemas y tiers) <br />
 >- ApothicAttributes
