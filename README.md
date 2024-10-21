@@ -6,23 +6,38 @@
 >- Apotheosis (Mod de gemas y tiers) <br />
 >- ApothicAttributes
 >- Biomes O'Plenty (+Biomas) <br />
->- ***->(NUEVO)*** CarryOn (Permite mover cosas más facilmente (Ej. Cofres, Mobs) <br />
+>- CarryOn (Permite mover cosas más facilmente (Ej. Cofres, Mobs) <br />
 >- Dungeon Crawl (Dungeons con buen loot) <br />
->- ***->(NUEVO)*** FTB Quest (Forge) (Implementa un menu de misiones) <br />
->- ***->(NUEVO)*** GeckoLib (Criaturas) <br />
+>- FTB Quest (Forge) (Implementa un menu de misiones) <br />
+>- GeckoLib (Criaturas) <br />
 >- GraveStone (Lápidas cuando mueres) <br />
->- ***->(NUEVO)*** InventoryProfileNext (Ordenar cofres) <br />
->- ***->(NUEVO)*** ItemFilters (Filtrado de items) <br/>
->- ***->(NUEVO)*** Mowzies Mobs (Añade un par de enemigos dificiles) <br />
->- ***->(NUEVO)*** OpenBlock Elevator (Ascensores)** (Ascensores) <br />
+>- InventoryProfileNext (Ordenar cofres) <br />
+>- ItemFilters (Filtrado de items) <br/>
+>- Mowzies Mobs (Añade un par de enemigos dificiles) <br />
+>- OpenBlock Elevator (Ascensores)** (Ascensores) <br />
 >- Patchouli (Libro guia) <br />
 >- Sophisticated Backpacks (Mochilas = +Inventario) <br />
 >- WayStones (Waystones/Portales) <br />
+>
+>   ***<(NUEVOS)>*** 
+>- Clumps (Optimiza y mejora tema xp)<br />
+>- Spark (Client profiler) <br />
+>- Explorer Compass (Brújula para estructuras)<br />
+>- Nature Compass (Brújula para biomas)<br />
+>- Global XP (Almacén de exp)<br />
+>- End Remastered (Mejora el lore)<br />
+>- Macaws Doors (Petición de Juanluis)<br />
+>- Enchantment descriptions (Server-Tooltip)<br />
+>
+>   ***<(CRASHED)>*** 
+>- ImmediatelyFast (Optimiza rendering)<br />
+>- Leyendary Tooltips (Cliente-Tooltips)<br />
+>- Embeddium (Optimiza el cliente)<br />
 
 > [!NOTE]
 >-------------------<[Mods debatidos para meter]>-------------------- <br />
 >- Paragliders (Aladelta y estamina, para viajes) <br />
->- Legendary Tooltips (Tooltips god) <br />
+>- SecurityCraft (Cofres con contraseña y bloques reforzados)
 > [!TIP]
 >-------------<[Mods personales y son para tu cliente]>-------------- <br />
 >- Appleskin (Interfaz de comida) <br />
@@ -30,3 +45,6 @@
 >- JEI (Interfaz y ayuda de crafteos) <br />
 >- Journey Map (Interfaz de Mapa) <br />
 >- YDM's MobsHealth (Vida enemigos) <br />
+>- Polymorph (Cliente - Tooltips)<br />
+>- Optifine (Optimiza xd)
+
