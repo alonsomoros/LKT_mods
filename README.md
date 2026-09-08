@@ -42,7 +42,8 @@
 > [!NOTE]
 >-------------------<[Mods debatidos para meter]>-------------------- <br />
 >- Paragliders (Aladelta y estamina, para viajes) <br />
->- SecurityCraft (Cofres con contraseña y bloques reforzados) <br />
+>- SecurityCraft (Cofres con contraseña y bloques reforzados)
+
 > [!TIP]
 >-------------<[Mods personales y son para tu cliente]>-------------- <br />
 >- Appleskin (Interfaz de comida) <br />
